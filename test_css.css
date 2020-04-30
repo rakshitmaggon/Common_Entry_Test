@@ -139,6 +139,15 @@ body {
    height:50px ;
    object-fit: cover;
  }
+
+   .bg-image {
+   background-color: white;
+   background-image:url ("images/test.png");
+   background-size:cover;
+   background-repeat:no-repeat;
+   background-attachment:fixed;
+  }
+
   
   .board .nav-pills {
     position: relative;
