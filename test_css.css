@@ -142,7 +142,7 @@ body {
 
    .bg-image {
    background-color: white;
-   background-image:url ("images/test.png");
+   background-image:url ("test.png");
    background-size:cover;
    background-repeat:no-repeat;
    background-attachment:fixed;
